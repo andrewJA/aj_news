@@ -1,6 +1,7 @@
 # aj_news
-This is lent of news
+This is Spring MVC + Hibernate SCUD project - lent of news.
 ## Used 
+* *IntelliJ IDEA*
 * **Maven**
 * **Spring MVC**
 * **Hibernate**
@@ -8,6 +9,7 @@ This is lent of news
 * **Bootstrap 4 beta**
 * **jQuery**
 * in future: +Spring Security, (?Data) 
+
 
 ## Script of db:
 ```sql
