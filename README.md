@@ -1,5 +1,5 @@
 # aj_news
-This is Spring MVC + Hibernate SCUD project - lent of news.
+This is Spring MVC + Hibernate CRUD project - lent of news.
 ## Used 
 * *IntelliJ IDEA*
 * **Maven**
