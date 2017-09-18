@@ -8,7 +8,9 @@ This is Spring MVC + Hibernate SCUD project - lent of news.
 * **WildFly 10**
 * **Bootstrap 4 beta**
 * **jQuery**
-* in future: +Spring Security, (?Data) 
+* in future: +Spring Security, (?Data)
+
+![Screen](http://www.picshare.ru/view/8286439/)
 
 
 ## Script of db:
