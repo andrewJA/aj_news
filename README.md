@@ -10,7 +10,7 @@ This is Spring MVC + Hibernate SCUD project - lent of news.
 * **jQuery**
 * in future: +Spring Security, (?Data)
 
-![Screen](http://www.picshare.ru/view/8286439/)
+
 
 
 ## Script of db:
