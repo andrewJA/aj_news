@@ -10,7 +10,8 @@ This is Spring MVC + Hibernate SCUD project - lent of news.
 * **jQuery**
 * in future: +Spring Security, (?Data)
 
-
+![screen1](/screens/index.png)
+![screen1](/screens/adding.png)
 
 
 ## Script of db:
