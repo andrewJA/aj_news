@@ -24,10 +24,10 @@
 
 <body>
 
-	<h2>Registration Form</h2>
+	<h2>Adding News Form</h2>
 
 	<div class="generic-container">
-		<div class="well lead">User Registration Form</div>
+
 		<form:form method="POST" modelAttribute="post" class="form-horizontal">
 		<form:input type="hidden" path="idPost" id="id"/>
 
