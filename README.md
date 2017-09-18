@@ -7,6 +7,7 @@ This is lent of news
 * **WildFly 10**
 * **Bootstrap 4 beta**
 * **jQuery**
+* in future: +Spring Security, (?Data) 
 
 ## Script of db:
 ```sql
